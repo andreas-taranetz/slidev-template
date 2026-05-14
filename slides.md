@@ -6,10 +6,6 @@ info: |
 fonts:
   sans: Poppins
   mono: Fira Code
-drawings:
-  persist: false
-themeConfig:
-  primary: "#1234ab"
 transition: fade
 src: ./pages/00-intro.md
 ---
