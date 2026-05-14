@@ -1,4 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# My Slidev Template for Presentations hosted as Github Pages
+
+⚠️ Make sure the source of your GitHub Pages is set to GitHub Actions in the settings of your repository.
+
+See the [Slidev docs](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 
